@@ -3,7 +3,7 @@ A desktop and mobile CDC Subsidy Calculator for unlicensed providers and registe
 
 Calculator available at    https://jscalc.io/calc/bMQriIY65uC8PeLE
 
-This calculator was designed for QISs to use in the field as a tool to facilitate outreach with unlicensed providers.  The tool enables accurate estimates of CDC subsidy income for providers based on their report of actual child care information.  
+This project emerged as a request during the Statewide Quality Improvement Meeting during Fall 2016.  This calculator was designed for GSQ Quality Improvement Specialists to use in the field as a tool to facilitate outreach with unlicensed providers.  The tool enables accurate estimates of CDC subsidy income for providers based on their report of actual child care information.  
 
 Information used to calculate income estimates is gathered for each child in care:  1) Total weekly hours of care and 2) child age category (i.e., less than 30 months or 30+ months).  
 
