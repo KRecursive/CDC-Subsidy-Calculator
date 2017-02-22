@@ -1,5 +1,5 @@
 # Michigan-CDC-Subsidy-Calculator
-A desktop and mobile CDC Subsidy Calculator.
+A desktop and mobile CDC Subsidy Calculator for unlicensed providers and registered family homes in Michigan.
 
 Calculator available at    https://jscalc.io/calc/bMQriIY65uC8PeLE
 
