@@ -9,4 +9,4 @@ Information used to calculate income estimates is gathered for each child in car
 
 A third (and optional) datapoint is entered for each child, the family's flat rate contribution (income-based copay), which is used to generate overall family costs incurred from child care *as well as* demonstrate that reaching a status of "high quality" (3, 4, or 5 Stars) results in the added benefit of zero cost for families.
 
-The document titled, "Calculator Script", includes all code for gathering input data, processing data, the calculations, and printing of outputs.
+The document in this repository titled, "Calculator Script", includes all code for gathering input data, processing data, the calculations, and printing of outputs.
