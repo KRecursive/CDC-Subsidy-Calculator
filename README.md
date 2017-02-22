@@ -1,7 +1,7 @@
 # Michigan-CDC-Subsidy-Calculator
 A desktop and mobile CDC Subsidy Calculator.
 
-Calculator available at:  https://jscalc.io/calc/bMQriIY65uC8PeLE
+Calculator available at    https://jscalc.io/calc/bMQriIY65uC8PeLE
 
 This calculator was designed for QISs to use in the field as a tool to facilitate outreach with unlicensed providers.  The tool enables accurate estimates of CDC subsidy income for providers based on their report of actual child care information.  
 
